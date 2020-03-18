@@ -76,4 +76,5 @@ def escape_html(text):
     text = text.replace(">", "&gt;")
     return text
 
+
 main()

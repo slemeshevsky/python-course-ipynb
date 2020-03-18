@@ -37,8 +37,8 @@ else:
         root = math.sqrt(discriminant)
     else:       # discriminant < 0
         root = cmath.sqrt(discriminant)
-    x1 = (-b + root) / (2 * a)
-    x2 = (-b - root) / (2 * a)
+        x1 = (-b + root) / (2 * a)
+        x2 = (-b - root) / (2 * a)
 # End 2d block
 
 # Start 3d block
